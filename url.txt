@@ -2,4 +2,4 @@ Link Repository (GitHub):
 https://github.com/LilCasyaa/submission_proyek_analisis_data/tree/main/dashboard
 
 Link Aplikasi / Dashboard (Streamlit):
-https://my-dashboard-app.streamlit.app/
+https://mjnp3wnjydisffk2vezfyq.streamlit.app/
